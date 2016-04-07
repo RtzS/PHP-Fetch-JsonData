@@ -1,0 +1,6 @@
+{
+  "name": "Php-fetch-jsondata",
+  "tagline": "Fetch JSON file data using PHP",
+  "body": "*** Welcome here!!\r\n\r\ncore ph is used to fetch Json file data and display on screen.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
