@@ -1,0 +1,27 @@
+{
+    "result": {
+        "title": "How to parse JSON file with PHP",
+		"posts": [
+            {
+                "title": "Simple PHP and MySQL code",
+				"img": "./images/s.jpg"
+				
+            },
+            {
+                 "title": "Simple PHP and MySQL code",
+				"img": "./images/s.jpg"
+				
+            },
+            {
+                "title": "Simple PHP and MySQL code",
+				"img": "./images/s.jpg"
+               
+            },
+            {
+                 "title": "Simple PHP and MySQL code",
+				"img": "./images/s.jpg"
+                
+            }
+        ]
+    }
+}
